@@ -16,7 +16,7 @@ $("#test").socialMedia();
 
 Modify options - Simple
 
-$("#test").simpleModal({
+$("#test").socialMedia({
     title: "Social",
     footer: "(c) Copyright",
     radiusBorder: false,
@@ -25,7 +25,7 @@ $("#test").simpleModal({
 
 Modify options - Advanced
 
-$("#test").simpleModal({
+$("#test").socialMedia({
     title: "Social Media and Network",
     content: "",
     footer: "(c) Copyright",
